@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/006/262/479/small/white-and-blue-tone-abstract-background-backdrop-for-presentation-design-for-website-concept-of-beauty-and-health-business-brochure-free-photo.jpg");
+    background-size: cover;
+}
+#main-heading{
+    text-align: center;
+}
+.centered{
+    text-align: center;
+}
